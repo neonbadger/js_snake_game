@@ -1,4 +1,6 @@
 * Classic Snake Game *
 
-Now live! Play [here] to play.
+The game is now *live*! Click [here] to play.
+
+![](snake.png)
 
